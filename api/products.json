@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "category": "Computers",
+        "brand": "Acer",
+        "price": 999.99,
+        "stock": 50,
+        "description": "Powerful laptop with a quad-core i5 processor, 8GB SSD, and a 14-inch FHD display.",
+        "image": "../images/laptopp.webp"
+    },
+    {
+        "id": 2,
+        "name": "Smartphone",
+        "category": "Mobiles",
+        "brand": "Motorola",
+        "price": 599.99,
+        "stock": 500,
+        "description": "Feature-rich smartphone with a 6.2-inch screen, 12MP dual camera, 128GB storage, and a 4000mAh battery.",
+        "image": "../images/iphone.avif"
+    },
+    {
+        "id": 3,
+        "name": "Watches",
+        "category": "Wearables",
+        "brand": "FitDev",
+        "price": 149.99,
+        "stock": 20,
+        "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color.",
+        "image": "../images/smartwatch.webp"
+    },
+    {
+        "id": 4,
+        "name": "Speakers",
+        "category": "Audio",
+        "brand": "Boat",
+        "price": 199.99,
+        "stock": 30,
+        "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek black color.",
+        "image": "../images/speaker.png"
+    },
+    {
+        "id": 5,
+        "name": "Wireless Headphones",
+        "category": "Audio",
+        "brand": "MiBeats",
+        "price": 499.99,
+        "stock": 80,
+        "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek black color.",
+        "image": "../images/headphone.png"
+    },
+    {
+        "id": 6,
+        "name": "Television",
+        "category": "Video",
+        "brand": "Sony",
+        "price": 1999.99,
+        "stock": 20,
+        "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color.",
+        "image": "../images/tv.webp"
+    }
+]
